@@ -1,5 +1,6 @@
 # SafeGuard-BorneoHackWknd
-Description: It is an app that can give real time data about common natural disasters around asean
+Description: It is an app that can give real time data about common natural disasters around ASEAN
+
 Project Title: SafeGuard App
 
 Team Members: 
