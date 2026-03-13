@@ -37,8 +37,7 @@ Since DisasterShield is currently presented as a prototype interface, no install
 * A modern web browser (Google Chrome, Microsoft Edge, Safari, or Firefox)
 
 ### How to Access the Prototype
-1. Open the DisasterShield Figma prototype using the link below:
-https://www.figma.com/make/EkpdcI1PzyocWdaYGtvAp7/Disaster-Management-App-Interface-Finalise?fullscreen=1&t=qIDqD3Aa1BXouZFM-1
+1. Open the DisasterShield Figma prototype using this link: https://figmashort.link/EW7Skn
 2. The prototype will open in presentation mode.
 3. Click anywhere on the screen or use the navigation arrows to move between different screens of the application.
 4. Interact with the buttons and UI elements to explore the features of the DisasterShield mobile application.
