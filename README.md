@@ -1,4 +1,4 @@
-# DisasterShield-BorneoHackWkn
+# DisasterShield-BorneoHackWknd
 Description: It is an app that can give real time data about common natural disasters around ASEAN
 
 Project Title: SafeGuard App
