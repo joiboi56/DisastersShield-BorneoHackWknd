@@ -2,6 +2,8 @@
 
 Developed by: barely functioning
 
+Demo video: https://youtu.be/nuBlHiKpKXA
+
 ## General Description
 ### What the Project Does
 DisasterShield is an intelligent disaster management mobile application designed to help communities stay informed and respond quickly during emergencies. The platform combines verified disaster updates, real-time hazard reporting, and emergency coordination tools in one system.
